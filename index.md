@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Berinag Nag Mandir Trust | Berinag, Uttarakhand
-description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initiatives, fitness, youth development, heritage and the Nag Mandir Parikrama Run.
+description: Berinag Nag Mandir Trust — caring for and supporting the preservation, restoration and religious activities of Nag Mandir, Berinag, along with community, youth, sports and social initiatives.
 ---
 
 <section class="hero">
@@ -21,18 +21,26 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
                 </h1>
 
                 <p class="hero-subtitle">
-                    Community · Youth · Fitness · Heritage
+                    Faith · Community · Youth · Service
                 </p>
 
                 <div class="event-highlight">
 
                     <p class="event-label">
-                        NAG MANDIR PARIKRAMA RUN 2026
+                        AN INITIATIVE OF BERINAG NAG MANDIR TRUST
                     </p>
 
                     <h2>
-                        Run for Fitness. Say No to Drugs.
+                        Nag Mandir Parikrama Run 2026
                     </h2>
+
+                    <p>
+                        <strong>Mini Hill Marathon</strong>
+                    </p>
+
+                    <p>
+                        Run for Fitness. Say No to Drugs.
+                    </p>
 
                     <p>
                         <strong>25 September 2026 · 7:00 AM</strong>
@@ -58,18 +66,26 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
                 </h1>
 
                 <p class="hero-subtitle">
-                    समुदाय · युवा · फिटनेस · विरासत
+                    आस्था · समुदाय · युवा · सेवा
                 </p>
 
                 <div class="event-highlight">
 
                     <p class="event-label">
-                        नाग मंदिर परिक्रमा रन 2026
+                        बेरीनाग नाग मंदिर ट्रस्ट की एक पहल
                     </p>
 
                     <h2>
-                        फिटनेस के लिए दौड़ें। नशे को ना कहें।
+                        नाग मंदिर परिक्रमा रन 2026
                     </h2>
+
+                    <p>
+                        <strong>मिनी हिल मैराथन</strong>
+                    </p>
+
+                    <p>
+                        फिटनेस के लिए दौड़ें। नशे को ना कहें।
+                    </p>
 
                     <p>
                         <strong>25 सितंबर 2026 · सुबह 7:00 बजे</strong>
@@ -93,7 +109,6 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
 
 </section>
 
-
 <!-- ABOUT -->
 
 <section id="about" class="section">
@@ -108,17 +123,43 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
 
         <div class="en">
 
-            <h2>Nag Mandir Trust</h2>
+            <h2>Berinag Nag Mandir Trust</h2>
 
             <p>
-                Nag Mandir Trust is a community-oriented initiative based
-                in Berinag, Uttarakhand.
+                Berinag Nag Mandir Trust is the Trust associated with
+                <strong>Nag Mandir, Berinag</strong>, a revered temple and
+                an important part of the religious and cultural heritage
+                of Berinag, Uttarakhand.
             </p>
 
             <p>
-                The Trust aims to encourage positive community participation
-                through initiatives focused on youth, fitness, social
-                wellbeing, cultural heritage and community development.
+                The Trust works towards the care, preservation and
+                development of Nag Mandir. Its activities include the
+                rebuilding, restoration and upkeep of the temple and its
+                premises, as well as organising and supporting religious
+                and cultural programmes associated with the temple.
+            </p>
+
+            <p>
+                Alongside its work for the temple, the Trust also undertakes
+                initiatives for the wider community, including social
+                service, support for women, youth development, sports,
+                fitness and community activities.
+            </p>
+
+            <p>
+                The <strong>Nag Mandir Parikrama Run – Mini Hill Marathon</strong>
+                is one such initiative, bringing together people of
+                different generations through fitness, sports and community
+                participation, while encouraging a healthy and positive
+                environment for the youth.
+            </p>
+
+            <p>
+                Through these efforts, the Trust seeks to preserve the
+                spiritual and cultural legacy of Nag Mandir while contributing
+                to the wellbeing and development of the wider Berinag
+                community.
             </p>
 
         </div>
@@ -126,17 +167,43 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
 
         <div class="hi">
 
-            <h2>नाग मंदिर ट्रस्ट</h2>
+            <h2>बेरीनाग नाग मंदिर ट्रस्ट</h2>
 
             <p>
-                नाग मंदिर ट्रस्ट बेरीनाग, उत्तराखंड में समुदाय-केंद्रित
-                एक पहल है।
+                बेरीनाग नाग मंदिर ट्रस्ट <strong>बेरीनाग स्थित नाग मंदिर</strong>
+                से जुड़ा ट्रस्ट है। नाग मंदिर बेरीनाग, उत्तराखंड की
+                धार्मिक एवं सांस्कृतिक विरासत का एक महत्वपूर्ण हिस्सा है।
             </p>
 
             <p>
-                ट्रस्ट का उद्देश्य युवाओं, फिटनेस, सामाजिक कल्याण,
-                सांस्कृतिक विरासत और सामुदायिक विकास से जुड़ी पहलों के
-                माध्यम से सकारात्मक सामुदायिक भागीदारी को बढ़ावा देना है।
+                ट्रस्ट नाग मंदिर की देखभाल, संरक्षण एवं विकास के लिए
+                कार्य करता है। इसके कार्यों में मंदिर एवं परिसर के
+                पुनर्निर्माण, जीर्णोद्धार एवं रखरखाव के साथ-साथ मंदिर से
+                जुड़े धार्मिक एवं सांस्कृतिक कार्यक्रमों का आयोजन एवं
+                सहयोग शामिल है।
+            </p>
+
+            <p>
+                मंदिर से जुड़े कार्यों के साथ-साथ ट्रस्ट व्यापक समुदाय
+                के लिए भी विभिन्न सामाजिक पहलों का संचालन एवं सहयोग
+                करता है। इनमें महिलाओं के सहयोग, युवाओं के विकास,
+                खेल, फिटनेस एवं सामुदायिक गतिविधियों को बढ़ावा देना
+                शामिल है।
+            </p>
+
+            <p>
+                <strong>नाग मंदिर परिक्रमा रन – मिनी हिल मैराथन</strong>
+                भी ट्रस्ट की ऐसी ही एक पहल है, जो विभिन्न आयु वर्ग के
+                लोगों को फिटनेस, खेल और सामुदायिक सहभागिता के माध्यम से
+                जोड़ने तथा युवाओं के लिए स्वस्थ एवं सकारात्मक वातावरण
+                को प्रोत्साहित करने का प्रयास है।
+            </p>
+
+            <p>
+                इन प्रयासों के माध्यम से ट्रस्ट का उद्देश्य नाग मंदिर की
+                आध्यात्मिक एवं सांस्कृतिक विरासत को संरक्षित करना तथा
+                बेरीनाग के व्यापक समुदाय के कल्याण एवं विकास में योगदान
+                देना है।
             </p>
 
         </div>
@@ -144,7 +211,6 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
     </div>
 
 </section>
-
 
 <!-- RUN -->
 
@@ -365,10 +431,19 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
             <h2>Become a Sponsor</h2>
 
             <p>
-                Support the Nag Mandir Parikrama Run 2026 and help us
-                promote fitness, positive youth engagement and community
-                participation.
+                Support the initiatives of Berinag Nag Mandir Trust and
+                help us preserve the temple, support community activities,
+                encourage youth participation and promote sports and fitness.
             </p>
+
+            <p>
+                The Nag Mandir Parikrama Run – Mini Hill Marathon is one
+                such community initiative supported by the Trust.
+            </p>
+
+            <a href="#contact" class="btn">
+                Sponsor / Support Us
+            </a>
 
         </div>
 
@@ -379,20 +454,28 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
                 सहयोग करें
             </p>
 
-            <h2>प्रायोजक बनें</h2>
+            <h2>सहयोगी बनें</h2>
 
             <p>
-                नाग मंदिर परिक्रमा रन 2026 का सहयोग करें और फिटनेस,
-                सकारात्मक युवा सहभागिता एवं सामुदायिक भागीदारी को
-                बढ़ावा देने में हमारा साथ दें।
+                बेरीनाग नाग मंदिर ट्रस्ट की विभिन्न पहलों में सहयोग करें
+                और मंदिर के संरक्षण, सामुदायिक गतिविधियों, युवाओं की
+                भागीदारी तथा खेल एवं फिटनेस को बढ़ावा देने में हमारा साथ दें।
             </p>
+
+            <p>
+                नाग मंदिर परिक्रमा रन – मिनी हिल मैराथन ट्रस्ट द्वारा
+                समर्थित ऐसी ही एक सामुदायिक पहल है।
+            </p>
+
+            <a href="#contact" class="btn">
+                सहयोग करें
+            </a>
 
         </div>
 
     </div>
 
 </section>
-
 
 <!-- CONTACT -->
 
@@ -405,19 +488,47 @@ description: Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initia
             <span class="hi">संपर्क</span>
         </p>
 
-        <h2>Nag Mandir Trust</h2>
 
-        <p>
-            Berinag, Pithoragarh, Uttarakhand
-        </p>
+        <div class="en">
 
-        <p>
-            📧 contact@nagmandirtrust.org
-        </p>
+            <h2>Berinag Nag Mandir Trust</h2>
 
-        <p>
-            📞 9997846633 · 7454840830
-        </p>
+            <p>
+                Berinag, Pithoragarh, Uttarakhand
+            </p>
+
+            <p>
+                📧 <a href="mailto:contact@nagmandirtrust.org">
+                    contact@nagmandirtrust.org
+                </a>
+            </p>
+
+            <p>
+                📞 9997846633 · 7454840830
+            </p>
+
+        </div>
+
+
+        <div class="hi">
+
+            <h2>बेरीनाग नाग मंदिर ट्रस्ट</h2>
+
+            <p>
+                बेरीनाग, पिथौरागढ़, उत्तराखंड
+            </p>
+
+            <p>
+                📧 <a href="mailto:contact@nagmandirtrust.org">
+                    contact@nagmandirtrust.org
+                </a>
+            </p>
+
+            <p>
+                📞 9997846633 · 7454840830
+            </p>
+
+        </div>
 
     </div>
 
