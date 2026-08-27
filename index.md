@@ -342,37 +342,46 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
         <div class="registration-box">
 
-            <div class="en">
+     <div class="en">
 
-                <h3>Registration is FREE</h3>
+        <h3>Registration is FREE</h3>
 
-                <p>
-                    Online registration will be available here.
-                </p>
+        <p>
+            Join the Nag Mandir Parikrama Mini Hill Marathon 2026.
+            Bring your family and friends and be part of this community
+            initiative promoting fitness, sports and a healthy lifestyle.
+        </p>
 
-                <a href="#" class="btn">
-                    Register Now
-                </a>
+        <a href="https://forms.gle/FnAStqFvnRnxK2Eu7"
+           class="btn"
+           target="_blank"
+           rel="noopener">
+            Register for Run 2026
+        </a>
 
-            </div>
+    </div>
 
 
-            <div class="hi">
+    <div class="hi">
 
-                <h3>पंजीकरण निःशुल्क है</h3>
+        <h3>पंजीकरण निःशुल्क है</h3>
 
-                <p>
-                    ऑनलाइन पंजीकरण का लिंक यहां उपलब्ध होगा।
-                </p>
+        <p>
+            नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026 में शामिल हों।
+            अपने परिवार और मित्रों के साथ इस सामुदायिक पहल का हिस्सा बनें
+            और फिटनेस, खेल एवं स्वस्थ जीवनशैली को बढ़ावा दें।
+        </p>
 
-                <a href="#" class="btn">
-                    पंजीकरण करें
-                </a>
+        <a href="https://forms.gle/FnAStqFvnRnxK2Eu7"
+           class="btn"
+           target="_blank"
+           rel="noopener">
+            रन 2026 के लिए पंजीकरण करें
+        </a>
 
-            </div>
+    </div>
 
-        </div>
-
+    </div>
 
         <div class="prizes">
 
@@ -422,11 +431,11 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 </section>
 
 
-<!-- SPONSOR -->
+<!-- SUPPORT / SPONSOR -->
 
 <section id="sponsor" class="section sponsor-section">
 
-    <div class="container narrow">
+    <div class="container">
 
         <div class="en">
 
@@ -434,22 +443,21 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 SUPPORT THE INITIATIVE
             </p>
 
-            <h2>Become a Sponsor</h2>
+            <h2>Support the Nag Mandir Trust</h2>
 
-            <p>
-                Support the initiatives of Berinag Nag Mandir Trust and
-                help us preserve the temple, support community activities,
-                encourage youth participation and promote sports and fitness.
+            <p class="intro">
+                The Berinag Nag Mandir Trust is organising the <strong>11 KM Mini Hill Marathon</strong> on <strong>Anant Chaturdashi, 25 September 2026</strong>, as part of its continuing efforts to connect youth with fitness, sports, culture and positive community participation.
             </p>
 
             <p>
-                The Nag Mandir Parikrama Run – Mini Hill Marathon is one
-                such community initiative supported by the Trust.
+                Hundreds of runners and young people from Berinag and surrounding areas are expected to participate. The event is
+                being organised as a community initiative, with <strong>free entry for all participants</strong>.
             </p>
 
-            <a href="#contact" class="btn">
-                Sponsor / Support Us
-            </a>
+            <p>
+                We invite individuals, businesses, organisations and well-wishers to support this initiative through sponsorship or voluntary
+                financial assistance.
+            </p>
 
         </div>
 
@@ -460,22 +468,241 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 सहयोग करें
             </p>
 
-            <h2>सहयोगी बनें</h2>
+            <h2>नाग मंदिर ट्रस्ट का सहयोग करें</h2>
 
-            <p>
-                बेरीनाग नाग मंदिर ट्रस्ट की विभिन्न पहलों में सहयोग करें
-                और मंदिर के संरक्षण, सामुदायिक गतिविधियों, युवाओं की
-                भागीदारी तथा खेल एवं फिटनेस को बढ़ावा देने में हमारा साथ दें।
+            <p class="intro">
+                बेरीनाग नाग मंदिर ट्रस्ट द्वारा
+                <strong>अनंत चतुर्दशी, 25 सितंबर 2026</strong> को <strong>11 किमी मिनी हिल मैराथन</strong> का आयोजन किया जा रहा है।
+                यह पहल युवाओं को फिटनेस, खेल, संस्कृति और सकारात्मक सामुदायिक सहभागिता से जोड़ने के ट्रस्ट के प्रयासों का हिस्सा है।
             </p>
 
             <p>
-                नाग मंदिर परिक्रमा रन – मिनी हिल मैराथन ट्रस्ट द्वारा
-                समर्थित ऐसी ही एक सामुदायिक पहल है।
+                बेरीनाग एवं आसपास के क्षेत्रों से सैकड़ों धावकों और युवाओं के इस आयोजन में शामिल होने की अपेक्षा है। आयोजन में <strong>सभी प्रतिभागियों के लिए प्रवेश निःशुल्क</strong> है।
             </p>
 
-            <a href="#contact" class="btn">
-                सहयोग करें
-            </a>
+            <p>
+                हम व्यक्तियों, व्यवसायों, संस्थाओं और शुभचिंतकों से इस पहल को प्रायोजन अथवा स्वैच्छिक आर्थिक सहयोग के माध्यम से समर्थन देने का अनुरोध करते हैं।
+            </p>
+
+        </div>
+
+
+        <!-- BUDGET -->
+
+        <div class="event-grid sponsor-grid">
+
+            <div class="event-card">
+
+                <span class="card-icon">🏆</span>
+
+                <div class="en">
+                    <h3>Prize Money</h3>
+                    <p><strong>₹1,00,000</strong></p>
+                    <p>For winners and participants</p>
+                </div>
+
+                <div class="hi">
+                    <h3>पुरस्कार राशि</h3>
+                    <p><strong>₹1,00,000</strong></p>
+                    <p>विजेताओं एवं प्रतिभागियों के लिए</p>
+                </div>
+
+            </div>
+
+
+            <div class="event-card">
+
+                <span class="card-icon">📋</span>
+
+                <div class="en">
+                    <h3>Organisation & Logistics</h3>
+                    <p><strong>₹50,000</strong></p>
+                    <p>Refreshments, medical support, route setup,
+                       T-shirts, banners and other arrangements</p>
+                </div>
+
+                <div class="hi">
+                    <h3>आयोजन एवं व्यवस्थाएं</h3>
+                    <p><strong>₹50,000</strong></p>
+                    <p>जलपान, चिकित्सा सहायता, रूट व्यवस्था,
+                       टी-शर्ट, बैनर एवं अन्य व्यवस्थाएं</p>
+                </div>
+
+            </div>
+
+
+            <div class="event-card">
+
+                <span class="card-icon">🤝</span>
+
+                <div class="en">
+                    <h3>Total Proposed Budget</h3>
+                    <p><strong>₹1,50,000</strong></p>
+                    <p>Estimated requirement for the event</p>
+                </div>
+
+                <div class="hi">
+                    <h3>कुल प्रस्तावित बजट</h3>
+                    <p><strong>₹1,50,000</strong></p>
+                    <p>आयोजन के लिए अनुमानित आवश्यकता</p>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- SPONSOR BENEFITS -->
+
+        <div class="sponsor-benefits">
+
+            <div class="en">
+
+                <h3>Opportunities for Sponsors & Supporters</h3>
+
+                <p>
+                    Sponsors and supporters can contribute according to their capacity as a <strong>Main Sponsor, Co-Sponsor</strong> or
+                    through voluntary financial assistance.
+                </p>
+
+                <ul>
+                    <li>
+                        Main sponsors and co-sponsors can receive prominent visibility for their name and logo at the event.
+                    </li>
+                    <li>
+                        Sponsor branding may be featured on the main stage, start/finish points, event T-shirts, banners and
+                        hoardings, subject to the sponsorship arrangement.
+                    </li>
+                    <li>
+                        Supporting organisations and businesses will be acknowledged during the event.
+                    </li>
+                </ul>
+
+            </div>
+
+
+            <div class="hi">
+
+                <h3>प्रायोजकों एवं सहयोगकर्ताओं के लिए अवसर</h3>
+
+                <p>
+                    प्रायोजक अपनी क्षमता के अनुसार
+                    <strong>मुख्य प्रायोजक, सह-प्रायोजक</strong> या स्वैच्छिक आर्थिक सहयोग के माध्यम से योगदान कर सकते हैं।
+                </p>
+
+                <ul>
+                    <li>
+                        मुख्य प्रायोजकों एवं सह-प्रायोजकों के नाम और लोगो को आयोजन में प्रमुख स्थानों पर प्रदर्शित किया जा सकता है।
+                    </li>
+                    <li>
+                        प्रायोजक की ब्रांडिंग मुख्य मंच, स्टार्ट/फिनिश स्थल, इवेंट टी-शर्ट, बैनर एवं होर्डिंग पर प्रायोजन व्यवस्था 
+                        के अनुसार प्रदर्शित की जा सकती है।
+                    </li>
+                    <li>
+                        सहयोग करने वाली संस्थाओं एवं व्यवसायों का आयोजन के दौरान आभार एवं सम्मान किया जाएगा।
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+
+        <!-- SUPPORT PAYMENT -->
+
+        <div class="support-payment">
+
+            <div class="en">
+
+                <h3>Support the Initiative</h3>
+
+                <p>
+                    You can support the Nag Mandir Trust by making a voluntary contribution towards the marathon and its community                     initiatives.
+                </p>
+
+                <img src="/assets/images/QR-code.jpeg"
+                     alt="Scan QR code to support Nag Mandir Trust"
+                     class="support-qr">
+
+                <p>
+                    <strong>UPI ID:</strong> 40532033793@SBI
+                </p>
+
+                <p>
+                    <strong>Account Name:</strong> Berinag Nag Mandir Trust<br>
+                    <strong>Bank:</strong> State Bank of India, Berinag<br>
+                    <strong>Account No.:</strong> 40532033793<br>
+                    <strong>IFSC:</strong> SBIN0002523<br>
+                    <strong>GPay:</strong> 7906655405
+                </p>
+
+            </div>
+
+
+            <div class="hi">
+
+                <h3>इस पहल में सहयोग करें</h3>
+
+                <p>
+                    आप मैराथन एवं ट्रस्ट की सामुदायिक पहलों के लिए स्वैच्छिक आर्थिक सहयोग देकर नाग मंदिर ट्रस्ट का समर्थन कर सकते हैं।
+                </p>
+
+                <img src="/assets/images/QR-code.jpeg"
+                     alt="नाग मंदिर ट्रस्ट को सहयोग करने के लिए QR कोड स्कैन करें"
+                     class="support-qr">
+
+                <p>
+                    <strong>UPI ID:</strong> 40532033793@SBI
+                </p>
+
+                <p>
+                    <strong>खाता नाम:</strong> बेरीनाग नाग मंदिर ट्रस्ट<br>
+                    <strong>बैंक:</strong> भारतीय स्टेट बैंक, बेरीनाग<br>
+                    <strong>खाता संख्या:</strong> 40532033793<br>
+                    <strong>IFSC:</strong> SBIN0002523<br>
+                    <strong>GPay:</strong> 7906655405
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- SPONSOR CONTACT -->
+
+        <div class="sponsor-contact">
+
+            <div class="en">
+
+                <h3>Interested in Sponsoring?</h3>
+
+                <p>
+                    For sponsorship, financial assistance or any other information, please contact the Nag Mandir Trust.
+                </p>
+
+                <p>
+                    📞 <strong>9997846633</strong> · <strong>7454840830</strong><br>
+                    📧 <strong>contact@nagmandirtrust.org</strong>
+                </p>
+
+            </div>
+
+
+            <div class="hi">
+
+                <h3>प्रायोजन में रुचि है?</h3>
+
+                <p>
+                    प्रायोजन, आर्थिक सहयोग अथवा अन्य जानकारी के लिए
+                    नाग मंदिर ट्रस्ट से संपर्क करें।
+                </p>
+
+                <p>
+                    📞 <strong>9997846633</strong> · <strong>7454840830</strong><br>
+                    📧 <strong>contact@nagmandirtrust.org</strong>
+                </p>
+
+            </div>
 
         </div>
 
