@@ -232,6 +232,9 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 Run for Fitness. Say No to Drugs. Support the Fit India
                 Movement and celebrate community spirit.
             </p>
+            <div class="run-poster">
+            <img src="{{ '/assets/images/poster_en.jpeg' | relative_url }}" alt="Nag Mandir Parikrama Mini Hill Marathon 2026">
+            </div>
 
         </div>
 
@@ -250,6 +253,9 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 फिटनेस के लिए दौड़ें। नशे को ना कहें। फिट इंडिया मूवमेंट
                 को समर्थन दें और सामुदायिक भावना का उत्सव मनाएं।
             </p>
+            <div class="run-poster">
+            <img src="{{ '/assets/images/poster_hi.jpeg' | relative_url }}" alt="नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026" >
+</div>
 
         </div>
 
