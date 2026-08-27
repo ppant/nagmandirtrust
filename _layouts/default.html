@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ page.title | default: site.title }}</title>
+
+    <meta name="description"
+          content="{{ page.description | default: site.description }}">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+<header class="navbar">
+
+    <div class="nav-container">
+
+        <a href="{{ '/' | relative_url }}" class="logo">
+            Nag Mandir Trust
+        </a>
+
+        <nav>
+            <a href="#about">
+                <span class="en">About</span>
+                <span class="hi">परिचय</span>
+            </a>
+
+            <a href="#run">
+                <span class="en">Run 2026</span>
+                <span class="hi">रन 2026</span>
+            </a>
+
+            <a href="#sponsor">
+                <span class="en">Sponsor</span>
+                <span class="hi">सहयोग</span>
+            </a>
+
+            <a href="#contact">
+                <span class="en">Contact</span>
+                <span class="hi">संपर्क</span>
+            </a>
+
+            <button id="languageToggle" class="language-toggle">
+                हिंदी
+            </button>
+        </nav>
+
+    </div>
+
+</header>
+
+
+<main>
+    {{ content }}
+</main>
+
+
+<footer>
+
+    <p>
+        © {{ site.time | date: '%Y' }} Nag Mandir Trust
+        · Berinag, Uttarakhand
+    </p>
+
+    <p>
+        <a href="mailto:contact@nagmandirtrust.org">
+            contact@nagmandirtrust.org
+        </a>
+    </p>
+
+</footer>
+
+
+<script>
+    const toggle = document.getElementById("languageToggle");
+
+    toggle.addEventListener("click", function () {
+
+        document.body.classList.toggle("hindi");
+
+        if (document.body.classList.contains("hindi")) {
+            toggle.textContent = "English";
+        } else {
+            toggle.textContent = "हिंदी";
+        }
+
+    });
+</script>
+
+</body>
+</html>
