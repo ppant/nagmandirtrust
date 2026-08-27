@@ -526,3 +526,17 @@ footer a:hover {
     margin-left: auto !important;
     margin-right: auto !important;
 }
+
+.run-poster {
+    max-width: 900px;
+    margin: 2.5rem auto 3rem;
+    text-align: center;
+}
+
+.run-poster img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+}
