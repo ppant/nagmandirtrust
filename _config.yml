@@ -1,0 +1,18 @@
+title: Berinag Nag Mandir Trust
+email: contact@nagmandirtrust.org
+url: https://www.nagmandirtrust.org
+baseurl: ""
+
+description: >-
+  Berinag Nag Mandir Trust, Berinag, Uttarakhand — community initiatives,
+  youth development, fitness, heritage and the Nag Mandir Parikrama Run.
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: Berinag Nag Mandir Trust
+  email: contact@nagmandirtrust.org
+
+markdown: kramdown
