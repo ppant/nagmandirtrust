@@ -193,7 +193,7 @@ body::before {
     background-size: cover;
     background-repeat: no-repeat;
 
-    opacity: 0.18;
+    opacity: 0.15;
 
     pointer-events: none;
     z-index: 0;
@@ -206,7 +206,6 @@ body::before {
 .hero-content {
     position: relative;
     z-index: 1;
-
     width: min(1100px, 90%);
     margin: auto;
     padding: 90px 0;
@@ -215,17 +214,20 @@ body::before {
     font-size: 0.85rem;
     letter-spacing: 3px;
     margin-bottom: 15px;
+    color: grey;
 }
 
 .hero h1 {
     font-size: clamp(2.8rem, 7vw, 5rem);
     line-height: 1.05;
     margin-bottom: 15px;
+    color: #e67e00;
 }
 
 .hero-subtitle {
     font-size: 1.2rem;
     margin-bottom: 45px;
+    color: grey;
 }
 
 .event-highlight {
@@ -233,8 +235,7 @@ body::before {
 }
 
 .event-label {
-    color: #FFE0A3;
-
+    color: grey;
     font-size: 0.9rem;
     letter-spacing: 2px;
     font-weight: 700;
@@ -244,10 +245,12 @@ body::before {
     font-size: clamp(2rem, 5vw, 3.4rem);
     line-height: 1.15;
     margin: 12px 0 20px;
+    color: #e67e00;
 }
 
 .event-highlight p {
     margin-bottom: 8px;
+    color: grey;
 }
 
 
