@@ -17,7 +17,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <div class="en">
 
                 <h1>
-                    Nag Mandir Trust
+                    Berinag Nag Mandir Trust
                 </h1>
 
                 <p class="hero-subtitle">
@@ -62,7 +62,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <div class="hi">
 
                 <h1>
-                    नाग मंदिर ट्रस्ट
+                    बेरीनाग नाग मंदिर ट्रस्ट
                 </h1>
 
                 <p class="hero-subtitle">
