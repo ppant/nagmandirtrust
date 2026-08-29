@@ -3,7 +3,6 @@ layout: default
 title: Berinag Nag Mandir Trust | Berinag, Uttarakhand
 description: Berinag Nag Mandir Trust — caring for and supporting the preservation, restoration and religious activities of Nag Mandir, Berinag, along with community, youth, sports and social initiatives.
 ---
-
 <section class="hero">
 
     <div class="hero-overlay">
@@ -13,6 +12,8 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <p class="eyebrow">
                 BERINAG · UTTARAKHAND
             </p>
+
+            <!-- ENGLISH -->
 
             <div class="en">
 
@@ -27,7 +28,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 <div class="event-highlight">
 
                     <p class="event-label">
-                        AN INITIATIVE OF BERINAG NAG MANDIR TRUST
+                        A BERINAG NAG MANDIR TRUST INITIATIVE
                     </p>
 
                     <h2>
@@ -58,6 +59,8 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
             </div>
 
+
+            <!-- HINDI -->
 
             <div class="hi">
 
