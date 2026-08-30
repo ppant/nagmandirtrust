@@ -434,11 +434,15 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 </section>
 
 
-<!-- SUPPORT / SPONSOR -->
+<!-- =========================================
+     SUPPORT / SPONSOR
+     ========================================= -->
 
 <section id="sponsor" class="section sponsor-section">
 
     <div class="container">
+
+        <!-- INTRODUCTION -->
 
         <div class="en">
 
@@ -449,17 +453,19 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <h2>Support the Nag Mandir Trust</h2>
 
             <p class="intro">
-                The Berinag Nag Mandir Trust is organising the <strong>11 KM Mini Hill Marathon</strong> on <strong>Anant Chaturdashi, 25 September 2026</strong>, as part of its continuing efforts to connect youth with fitness, sports, culture and positive community participation.
+                The Berinag Nag Mandir Trust is organising the
+                <strong>11 KM Mini Hill Marathon</strong> on
+                <strong>Anant Chaturdashi, 25 September 2026</strong>.
+                The event is part of the Trust's continuing efforts to
+                connect youth with fitness, sports, culture and positive
+                community participation.
             </p>
 
             <p>
-                Hundreds of runners and young people from Berinag and surrounding areas are expected to participate. The event is
-                being organised as a community initiative, with <strong>free entry for all participants</strong>.
-            </p>
-
-            <p>
-                We invite individuals, businesses, organisations and well-wishers to support this initiative through sponsorship or voluntary
-                financial assistance.
+                With <strong>free entry for all participants</strong>,
+                the event is being organised as a community initiative
+                and depends on the support of individuals, businesses,
+                organisations and well-wishers.
             </p>
 
         </div>
@@ -475,16 +481,16 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
             <p class="intro">
                 बेरीनाग नाग मंदिर ट्रस्ट द्वारा
-                <strong>अनंत चतुर्दशी, 25 सितंबर 2026</strong> को <strong>11 किमी मिनी हिल मैराथन</strong> का आयोजन किया जा रहा है।
-                यह पहल युवाओं को फिटनेस, खेल, संस्कृति और सकारात्मक सामुदायिक सहभागिता से जोड़ने के ट्रस्ट के प्रयासों का हिस्सा है।
+                <strong>अनंत चतुर्दशी, 25 सितंबर 2026</strong> को
+                <strong>11 किमी मिनी हिल मैराथन</strong> का आयोजन किया जा रहा है।
+                यह पहल युवाओं को फिटनेस, खेल, संस्कृति और सकारात्मक
+                सामुदायिक सहभागिता से जोड़ने के ट्रस्ट के प्रयासों का हिस्सा है।
             </p>
 
             <p>
-                बेरीनाग एवं आसपास के क्षेत्रों से सैकड़ों धावकों और युवाओं के इस आयोजन में शामिल होने की अपेक्षा है। आयोजन में <strong>सभी प्रतिभागियों के लिए प्रवेश निःशुल्क</strong> है।
-            </p>
-
-            <p>
-                हम व्यक्तियों, व्यवसायों, संस्थाओं और शुभचिंतकों से इस पहल को प्रायोजन अथवा स्वैच्छिक आर्थिक सहयोग के माध्यम से समर्थन देने का अनुरोध करते हैं।
+                आयोजन में <strong>सभी प्रतिभागियों के लिए प्रवेश निःशुल्क</strong>
+                है। इस सामुदायिक पहल को सफल बनाने के लिए व्यक्तियों,
+                व्यवसायों, संस्थाओं और शुभचिंतकों के सहयोग की आवश्यकता है।
             </p>
 
         </div>
@@ -520,15 +526,19 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 <div class="en">
                     <h3>Organisation & Logistics</h3>
                     <p><strong>₹1,00,000</strong></p>
-                    <p>Refreshments, medical support, route setup,
-                       T-shirts, banners and other arrangements</p>
+                    <p>
+                        Refreshments, medical support, route setup,
+                        T-shirts, banners and other arrangements
+                    </p>
                 </div>
 
                 <div class="hi">
                     <h3>आयोजन एवं व्यवस्थाएं</h3>
                     <p><strong>₹1,00,000</strong></p>
-                    <p>जलपान, चिकित्सा सहायता, रूट व्यवस्था,
-                       टी-शर्ट, बैनर एवं अन्य व्यवस्थाएं</p>
+                    <p>
+                        जलपान, चिकित्सा सहायता, रूट व्यवस्था,
+                        टी-शर्ट, बैनर एवं अन्य व्यवस्थाएं
+                    </p>
                 </div>
 
             </div>
@@ -555,29 +565,36 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
         </div>
 
 
-        <!-- SPONSOR BENEFITS -->
+        <!-- SPONSORSHIP -->
 
         <div class="sponsor-benefits">
 
             <div class="en">
 
-                <h3>Opportunities for Sponsors & Supporters</h3>
+                <h3>Sponsorship Opportunities</h3>
 
                 <p>
-                    Sponsors and supporters can contribute according to their capacity as a <strong>Main Sponsor, Co-Sponsor</strong> or
-                    through voluntary financial assistance.
+                    Businesses and organisations can support the event as a
+                    <strong>Main Sponsor</strong>,
+                    <strong>Co-Sponsor</strong> or through other forms of
+                    financial assistance.
                 </p>
 
                 <ul>
                     <li>
-                        Main sponsors and co-sponsors can receive prominent visibility for their name and logo at the event.
+                        Prominent visibility for sponsor names and logos
+                        at the event.
                     </li>
+
                     <li>
-                        Sponsor branding may be featured on the main stage, start/finish points, event T-shirts, banners and
+                        Branding opportunities on the main stage,
+                        start/finish points, event T-shirts, banners and
                         hoardings, subject to the sponsorship arrangement.
                     </li>
+
                     <li>
-                        Supporting organisations and businesses will be acknowledged during the event.
+                        Supporting organisations and businesses will be
+                        acknowledged during the event.
                     </li>
                 </ul>
 
@@ -586,23 +603,30 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
             <div class="hi">
 
-                <h3>प्रायोजकों एवं सहयोगकर्ताओं के लिए अवसर</h3>
+                <h3>प्रायोजन के अवसर</h3>
 
                 <p>
-                    प्रायोजक अपनी क्षमता के अनुसार
-                    <strong>मुख्य प्रायोजक, सह-प्रायोजक</strong> या स्वैच्छिक आर्थिक सहयोग के माध्यम से योगदान कर सकते हैं।
+                    व्यवसाय और संस्थाएं
+                    <strong>मुख्य प्रायोजक</strong>,
+                    <strong>सह-प्रायोजक</strong> अथवा अन्य प्रकार के
+                    आर्थिक सहयोग के माध्यम से इस आयोजन का समर्थन कर सकते हैं।
                 </p>
 
                 <ul>
                     <li>
-                        मुख्य प्रायोजकों एवं सह-प्रायोजकों के नाम और लोगो को आयोजन में प्रमुख स्थानों पर प्रदर्शित किया जा सकता है।
+                        आयोजन में प्रायोजकों के नाम और लोगो को प्रमुखता से
+                        प्रदर्शित करने का अवसर।
                     </li>
+
                     <li>
-                        प्रायोजक की ब्रांडिंग मुख्य मंच, स्टार्ट/फिनिश स्थल, इवेंट टी-शर्ट, बैनर एवं होर्डिंग पर प्रायोजन व्यवस्था 
-                        के अनुसार प्रदर्शित की जा सकती है।
+                        प्रायोजन व्यवस्था के अनुसार मुख्य मंच,
+                        स्टार्ट/फिनिश स्थल, इवेंट टी-शर्ट, बैनर और
+                        होर्डिंग पर ब्रांडिंग का अवसर।
                     </li>
+
                     <li>
-                        सहयोग करने वाली संस्थाओं एवं व्यवसायों का आयोजन के दौरान आभार एवं सम्मान किया जाएगा।
+                        सहयोग करने वाली संस्थाओं एवं व्यवसायों का
+                        आयोजन के दौरान आभार एवं सम्मान किया जाएगा।
                     </li>
                 </ul>
 
@@ -611,21 +635,40 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
         </div>
 
 
-        <!-- SUPPORT PAYMENT -->
+        <!-- FINANCIAL SUPPORT -->
 
         <div class="support-payment">
 
             <div class="en">
 
-                <h3>Support the Initiative</h3>
+                <h3>Support the Run</h3>
 
                 <p>
-                    You can support the Nag Mandir Trust by making a voluntary contribution towards the marathon and its community                     initiatives.
+                    Individuals and well-wishers can contribute towards
+                    the organisation of the marathon and help us make this
+                    community initiative a success.
                 </p>
 
                 <img src="/assets/images/QR-code.jpeg"
                      alt="Scan QR code to support Nag Mandir Trust"
                      class="support-qr">
+
+                <!-- DONOR FORM -->
+
+                <p>
+                    <strong>Supporting the Run?</strong><br>
+                    Please fill in the short form below so that we can
+                    record your name and acknowledge your support.
+                </p>
+
+                <a
+                    href="https://forms.gle/sf5EFCFxhxd5Jf478"
+                    target="_blank"
+                    rel="noopener"
+                    class="support-button"
+                >
+                    Support / Donation Form →
+                </a>
 
                 <p>
                     <strong>UPI ID:</strong> 40532033793@SBI
@@ -644,15 +687,33 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
             <div class="hi">
 
-                <h3>इस पहल में सहयोग करें</h3>
+                <h3>रन के आयोजन में सहयोग करें</h3>
 
                 <p>
-                    आप मैराथन एवं ट्रस्ट की सामुदायिक पहलों के लिए स्वैच्छिक आर्थिक सहयोग देकर नाग मंदिर ट्रस्ट का समर्थन कर सकते हैं।
+                    व्यक्ति एवं शुभचिंतक मैराथन के आयोजन में आर्थिक सहयोग
+                    देकर इस सामुदायिक पहल को सफल बनाने में योगदान दे सकते हैं।
                 </p>
 
                 <img src="/assets/images/QR-code.jpeg"
                      alt="नाग मंदिर ट्रस्ट को सहयोग करने के लिए QR कोड स्कैन करें"
                      class="support-qr">
+
+                <!-- DONOR FORM -->
+
+                <p>
+                    <strong>रन में सहयोग कर रहे हैं?</strong><br>
+                    कृपया नीचे दिए गए संक्षिप्त फॉर्म को भरें, ताकि
+                    हम आपका नाम और सहयोग का विवरण दर्ज कर सकें।
+                </p>
+
+                <a
+                    href="https://forms.gle/sf5EFCFxhxd5Jf478"
+                    target="_blank"
+                    rel="noopener"
+                    class="support-button"
+                >
+                    सहयोग / दान फॉर्म →
+                </a>
 
                 <p>
                     <strong>UPI ID:</strong> 40532033793@SBI
@@ -670,49 +731,35 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
         </div>
 
+<!-- SPONSOR CONTACT -->
 
-        <!-- SPONSOR CONTACT -->
+<div class="sponsor-contact">
 
-        <div class="sponsor-contact">
+    <div class="en">
 
-            <div class="en">
+        <h3>Interested in Sponsoring?</h3>
 
-                <h3>Interested in Sponsoring?</h3>
-
-                <p>
-                    For sponsorship, financial assistance or any other information, please contact the Nag Mandir Trust.
-                </p>
-
-                <p>
-                    📞 <strong>9997846633</strong> · <strong>7454840830</strong><br>
-                    📧 <strong>contact@nagmandirtrust.org</strong>
-                </p>
-
-            </div>
-
-
-            <div class="hi">
-
-                <h3>प्रायोजन में रुचि है?</h3>
-
-                <p>
-                    प्रायोजन, आर्थिक सहयोग अथवा अन्य जानकारी के लिए
-                    नाग मंदिर ट्रस्ट से संपर्क करें।
-                </p>
-
-                <p>
-                    📞 <strong>9997846633</strong> · <strong>7454840830</strong><br>
-                    📧 <strong>contact@nagmandirtrust.org</strong>
-                </p>
-
-            </div>
-
-        </div>
+        <p>
+            For sponsorship opportunities or larger contributions,
+            please get in touch with the Nag Mandir Trust.
+        </p>
 
     </div>
 
-</section>
 
+    <div class="hi">
+
+        <h3>प्रायोजन में रुचि है?</h3>
+
+        <p>
+            प्रायोजन अथवा बड़े आर्थिक सहयोग के लिए
+            नाग मंदिर ट्रस्ट से संपर्क करें।
+        </p>
+
+    </div>
+
+</div>
+        
 <!-- CONTACT -->
 
 <section id="contact" class="section contact-section">
