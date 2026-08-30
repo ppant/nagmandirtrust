@@ -519,14 +519,14 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
                 <div class="en">
                     <h3>Organisation & Logistics</h3>
-                    <p><strong>₹50,000</strong></p>
+                    <p><strong>₹1,00,000</strong></p>
                     <p>Refreshments, medical support, route setup,
                        T-shirts, banners and other arrangements</p>
                 </div>
 
                 <div class="hi">
                     <h3>आयोजन एवं व्यवस्थाएं</h3>
-                    <p><strong>₹50,000</strong></p>
+                    <p><strong>₹1,00,000</strong></p>
                     <p>जलपान, चिकित्सा सहायता, रूट व्यवस्था,
                        टी-शर्ट, बैनर एवं अन्य व्यवस्थाएं</p>
                 </div>
@@ -540,13 +540,13 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
                 <div class="en">
                     <h3>Total Proposed Budget</h3>
-                    <p><strong>₹1,50,000</strong></p>
+                    <p><strong>₹2,00,000</strong></p>
                     <p>Estimated requirement for the event</p>
                 </div>
 
                 <div class="hi">
                     <h3>कुल प्रस्तावित बजट</h3>
-                    <p><strong>₹1,50,000</strong></p>
+                    <p><strong>₹2,00,000</strong></p>
                     <p>आयोजन के लिए अनुमानित आवश्यकता</p>
                 </div>
 
