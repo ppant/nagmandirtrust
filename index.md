@@ -3,6 +3,7 @@ layout: default
 title: Berinag Nag Mandir Trust | Berinag, Uttarakhand
 description: Berinag Nag Mandir Trust — caring for and supporting the preservation, restoration and religious activities of Nag Mandir, Berinag, along with community, youth, sports and social initiatives.
 ---
+
 <section class="hero">
 
     <div class="hero-overlay">
@@ -112,6 +113,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
 </section>
 
+
 <!-- ABOUT -->
 
 <section id="about" class="section">
@@ -215,6 +217,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
 </section>
 
+
 <!-- RUN -->
 
 <section id="run" class="section event-section">
@@ -235,8 +238,13 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 Run for Fitness. Say No to Drugs. Support the Fit India
                 Movement and celebrate community spirit.
             </p>
+
             <div class="run-poster">
-            <img src="{{ '/assets/images/poster_en.jpeg' | relative_url }}" alt="Nag Mandir Parikrama Mini Hill Marathon 2026">
+
+                <img
+                    src="{{ '/assets/images/poster_en.jpeg' | relative_url }}"
+                    alt="Nag Mandir Parikrama Mini Hill Marathon 2026">
+
             </div>
 
         </div>
@@ -256,86 +264,173 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 फिटनेस के लिए दौड़ें। नशे को ना कहें। फिट इंडिया मूवमेंट
                 को समर्थन दें और सामुदायिक भावना का उत्सव मनाएं।
             </p>
+
             <div class="run-poster">
-            <img src="{{ '/assets/images/poster_hi.jpeg' | relative_url }}" alt="नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026" >
-</div>
+
+                <img
+                    src="{{ '/assets/images/poster_hi.jpeg' | relative_url }}"
+                    alt="नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026">
+
+            </div>
 
         </div>
 
 
+        <!-- EVENT DETAILS -->
+
         <div class="event-grid">
+
+            <!-- PRE RACE -->
 
             <div class="event-card">
 
                 <span class="card-icon">📅</span>
 
                 <div class="en">
+
                     <h3>Pre-Race</h3>
-                    <p><strong>24 September 2026</strong></p>
-                    <p>Inauguration & Race Briefing</p>
-                    <p>📍 Berinag Market</p>
+
+                    <p>
+                        <strong>24 September 2026</strong>
+                    </p>
+
+                    <p>
+                        Inauguration & Race Briefing
+                    </p>
+
+                    <p>
+                        📍 Berinag Market
+                    </p>
+
                 </div>
 
                 <div class="hi">
+
                     <h3>प्री-रेस</h3>
-                    <p><strong>24 सितंबर 2026</strong></p>
-                    <p>उद्घाटन एवं रेस ब्रीफिंग</p>
-                    <p>📍 बेरीनाग बाज़ार</p>
+
+                    <p>
+                        <strong>24 सितंबर 2026</strong>
+                    </p>
+
+                    <p>
+                        उद्घाटन एवं रेस ब्रीफिंग
+                    </p>
+
+                    <p>
+                        📍 बेरीनाग बाज़ार
+                    </p>
+
                 </div>
 
             </div>
 
+
+            <!-- RACE DAY -->
 
             <div class="event-card">
 
                 <span class="card-icon">🏃</span>
 
                 <div class="en">
+
                     <h3>Race Day</h3>
-                    <p><strong>25 September 2026 · 7:00 AM</strong></p>
-                    <p>📍 Nag Mandir Compound</p>
+
+                    <p>
+                        <strong>25 September 2026 · 7:00 AM</strong>
+                    </p>
+
+                    <p>
+                        📍 Nag Mandir, Berinag
+                    </p>
+
                 </div>
 
                 <div class="hi">
+
                     <h3>रेस डे</h3>
-                    <p><strong>25 सितंबर 2026 · सुबह 7:00 बजे</strong></p>
-                    <p>📍 नाग मंदिर परिसर</p>
+
+                    <p>
+                        <strong>25 सितंबर 2026 · सुबह 7:00 बजे</strong>
+                    </p>
+
+                    <p>
+                        📍 नाग मंदिर, बेरीनाग
+                    </p>
+
                 </div>
 
             </div>
 
 
+            <!-- FREE REGISTRATION -->
+
             <div class="event-card">
 
-                <span class="card-icon">🏃</span>
+                <span class="card-icon">📝</span>
 
                 <div class="en">
-                    <h3>11 KM Run</h3>
-                    <p>Kids · Adults · Senior Citizens</p>
-                    <p>Male & Female</p>
+
+                    <h3>Free Registration</h3>
+
+                    <p>
+                        <strong>Registration is FREE</strong>
+                    </p>
+
+                    <p>
+                        Open to eligible participants across the race categories.
+                    </p>
+
                 </div>
 
                 <div class="hi">
-                    <h3>11 किमी रन</h3>
-                    <p>बच्चे · वयस्क · वरिष्ठ नागरिक</p>
-                    <p>पुरुष एवं महिला</p>
+
+                    <h3>निःशुल्क पंजीकरण</h3>
+
+                    <p>
+                        <strong>पंजीकरण निःशुल्क है</strong>
+                    </p>
+
+                    <p>
+                        निर्धारित दौड़ श्रेणियों के पात्र प्रतिभागियों के लिए।
+                    </p>
+
                 </div>
 
             </div>
 
 
+            <!-- PRIZE POOL -->
+
             <div class="event-card">
 
-                <span class="card-icon">🚶</span>
+                <span class="card-icon">🏆</span>
 
                 <div class="en">
-                    <h3>6 KM Community Walk-Run</h3>
-                    <p>Open for All</p>
+
+                    <h3>Sports Prize Pool</h3>
+
+                    <p>
+                        <strong>₹1,00,000</strong>
+                    </p>
+
+                    <p>
+                        Total prize amount across the sporting activities.
+                    </p>
+
                 </div>
 
                 <div class="hi">
-                    <h3>6 किमी सामुदायिक वॉक-रन</h3>
-                    <p>सभी के लिए खुला</p>
+
+                    <h3>कुल पुरस्कार राशि</h3>
+
+                    <p>
+                        <strong>₹1,00,000</strong>
+                    </p>
+
+                    <p>
+                        विभिन्न खेल गतिविधियों के लिए कुल पुरस्कार राशि।
+                    </p>
+
                 </div>
 
             </div>
@@ -343,66 +438,198 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
         </div>
 
 
-        <div class="registration-box">
+        <!-- RACE CATEGORIES -->
 
-     <div class="en">
-
-        <h3>Registration is FREE</h3>
-
-        <p>
-            Join the Nag Mandir Parikrama Mini Hill Marathon 2026.
-            Bring your family and friends and be part of this community
-            initiative promoting fitness, sports and a healthy lifestyle.
-        </p>
-
-        <a href="https://forms.gle/FnAStqFvnRnxK2Eu7"
-           class="btn"
-           target="_blank"
-           rel="noopener">
-            Register for Run 2026
-        </a>
-
-    </div>
-
-
-    <div class="hi">
-
-        <h3>पंजीकरण निःशुल्क है</h3>
-
-        <p>
-            नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026 में शामिल हों।
-            अपने परिवार और मित्रों के साथ इस सामुदायिक पहल का हिस्सा बनें
-            और फिटनेस, खेल एवं स्वस्थ जीवनशैली को बढ़ावा दें।
-        </p>
-
-        <a href="https://forms.gle/FnAStqFvnRnxK2Eu7"
-           class="btn"
-           target="_blank"
-           rel="noopener">
-            रन 2026 के लिए पंजीकरण करें
-        </a>
-
-    </div>
-
-    </div>
-
-        <div class="prizes">
+        <div class="race-categories">
 
             <div class="en">
 
-                <h3>🏆 Prize Pool — ₹1,00,000</h3>
+                <h3>Race Categories</h3>
 
-                <div class="prize-list">
-                    <span>🥇 1st — ₹5,100</span>
-                    <span>🥈 2nd — ₹3,100</span>
-                    <span>🥉 3rd — ₹2,100</span>
-                    <span>🏅 4th–10th</span>
-                    <span>🎖️ ₹500 each</span>
+                <div class="event-grid">
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏃</span>
+
+                        <h3>Under 12</h3>
+
+                        <p>
+                            <strong>1.5 KM</strong>
+                        </p>
+
+                    </div>
+
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏃</span>
+
+                        <h3>Under 15</h3>
+
+                        <p>
+                            <strong>3 KM</strong>
+                        </p>
+
+                    </div>
+
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏃</span>
+
+                        <h3>Open Boys & Girls</h3>
+
+                        <p>
+                            <strong>6 KM</strong>
+                        </p>
+
+                        <p>
+                            Cross Country
+                        </p>
+
+                    </div>
+
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏅</span>
+
+                        <h3>Mini Marathon</h3>
+
+                        <p>
+                            <strong>11 KM</strong>
+                        </p>
+
+                        <p>
+                            Men & Women · Senior 50+
+                        </p>
+
+                    </div>
+
                 </div>
 
+            </div>
+
+
+            <div class="hi">
+
+                <h3>दौड़ श्रेणियाँ</h3>
+
+                <div class="event-grid">
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏃</span>
+
+                        <h3>अंडर 12</h3>
+
+                        <p>
+                            <strong>1.5 किमी</strong>
+                        </p>
+
+                    </div>
+
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏃</span>
+
+                        <h3>अंडर 15</h3>
+
+                        <p>
+                            <strong>3 किमी</strong>
+                        </p>
+
+                    </div>
+
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏃</span>
+
+                        <h3>ओपन बालक एवं बालिका</h3>
+
+                        <p>
+                            <strong>6 किमी</strong>
+                        </p>
+
+                        <p>
+                            क्रॉस कंट्री
+                        </p>
+
+                    </div>
+
+
+                    <div class="event-card">
+
+                        <span class="card-icon">🏅</span>
+
+                        <h3>मिनी मैराथन</h3>
+
+                        <p>
+                            <strong>11 किमी</strong>
+                        </p>
+
+                        <p>
+                            पुरुष एवं महिला · वरिष्ठ 50+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- AGE & PARTICIPATION -->
+
+        <div class="event-notes">
+
+            <div class="en">
+
+                <h3>Age Eligibility & Participation</h3>
+
                 <p>
-                    🎁 Participation prize for all finishers +
-                    special prize for senior citizens.
+                    Age will be determined as on
+                    <strong>1 October 2026</strong>.
+                </p>
+
+                <ul>
+
+                    <li>
+                        <strong>Under 12:</strong>
+                        Born on or after 1 October 2014
+                    </li>
+
+                    <li>
+                        <strong>Under 15:</strong>
+                        Born between 1 October 2011 and
+                        30 September 2014
+                    </li>
+
+                    <li>
+                        <strong>Senior 50+:</strong>
+                        Born before 1 October 1976
+                    </li>
+
+                </ul>
+
+                <p>
+                    All races will be conducted in boys and girls /
+                    male and female categories as applicable.
+                </p>
+
+                <p>
+                    A participation prize will be given to all finishers,
+                    with a special prize for senior citizens.
+                </p>
+
+                <p>
+                    The 6 KM Cross Country event will be organised
+                    with the support of the Sports Department.
                 </p>
 
             </div>
@@ -410,19 +637,138 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
             <div class="hi">
 
-                <h3>🏆 कुल पुरस्कार राशि — ₹1,00,000</h3>
-
-                <div class="prize-list">
-                    <span>🥇 प्रथम — ₹5,100</span>
-                    <span>🥈 द्वितीय — ₹3,100</span>
-                    <span>🥉 तृतीय — ₹2,100</span>
-                    <span>🏅 चतुर्थ–दसवां</span>
-                    <span>🎖️ ₹500 प्रत्येक</span>
-                </div>
+                <h3>आयु पात्रता एवं सहभागिता</h3>
 
                 <p>
-                    🎁 सभी फिनिशर्स को सहभागिता पुरस्कार +
-                    वरिष्ठ नागरिकों के लिए विशेष पुरस्कार।
+                    आयु का निर्धारण
+                    <strong>1 अक्टूबर 2026</strong> के आधार पर किया जाएगा।
+                </p>
+
+                <ul>
+
+                    <li>
+                        <strong>अंडर 12:</strong>
+                        1 अक्टूबर 2014 या उसके बाद जन्म
+                    </li>
+
+                    <li>
+                        <strong>अंडर 15:</strong>
+                        1 अक्टूबर 2011 से 30 सितंबर 2014 के बीच जन्म
+                    </li>
+
+                    <li>
+                        <strong>वरिष्ठ 50+:</strong>
+                        1 अक्टूबर 1976 से पहले जन्म
+                    </li>
+
+                </ul>
+
+                <p>
+                    सभी दौड़ निर्धारित बालक/बालिका एवं
+                    पुरुष/महिला वर्गों में आयोजित की जाएंगी।
+                </p>
+
+                <p>
+                    सभी फिनिशर्स को सहभागिता पुरस्कार तथा
+                    वरिष्ठ नागरिकों के लिए विशेष पुरस्कार दिया जाएगा।
+                </p>
+
+                <p>
+                    6 किमी क्रॉस कंट्री का आयोजन
+                    खेल विभाग के सहयोग से किया जाएगा।
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- REGISTRATION -->
+
+        <div class="registration-box">
+
+            <div class="en">
+
+                <h3>Registration is FREE</h3>
+
+                <p>
+                    Join the Nag Mandir Parikrama Run 2026 and be part
+                    of this community initiative promoting fitness,
+                    sports and a healthy lifestyle.
+                </p>
+
+                <a
+                    href="https://forms.gle/FnAStqFvnRnxK2Eu7"
+                    class="btn"
+                    target="_blank"
+                    rel="noopener">
+                    Register for Run 2026
+                </a>
+
+            </div>
+
+
+            <div class="hi">
+
+                <h3>पंजीकरण निःशुल्क है</h3>
+
+                <p>
+                    नाग मंदिर परिक्रमा रन 2026 में शामिल हों और
+                    फिटनेस, खेल एवं स्वस्थ जीवनशैली को बढ़ावा देने
+                    वाली इस सामुदायिक पहल का हिस्सा बनें।
+                </p>
+
+                <a
+                    href="https://forms.gle/FnAStqFvnRnxK2Eu7"
+                    class="btn"
+                    target="_blank"
+                    rel="noopener">
+                    रन 2026 के लिए पंजीकरण करें
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- EVENT PURPOSE -->
+
+        <div class="event-notes">
+
+            <div class="en">
+
+                <h3>Run for Fitness. Say No to Drugs.</h3>
+
+                <p>
+                    The sporting activities being organised from
+                    <strong>15 to 25 September 2026</strong> are part of
+                    the campaign for a healthy and drug-free community
+                    and support the Fit India Movement.
+                </p>
+
+                <p>
+                    The decision of the organising and judging committee
+                    will be final in matters concerning the conduct
+                    of the event and any disputes.
+                </p>
+
+            </div>
+
+
+            <div class="hi">
+
+                <h3>फिटनेस के लिए दौड़ें। नशे को ना कहें।</h3>
+
+                <p>
+                    <strong>15 से 25 सितंबर 2026</strong> तक आयोजित
+                    विभिन्न खेल गतिविधियां नशा मुक्ति अभियान,
+                    स्वस्थ समुदाय तथा फिट इंडिया मूवमेंट के उद्देश्य
+                    के लिए आयोजित की जा रही हैं।
+                </p>
+
+                <p>
+                    आयोजन के संचालन एवं किसी भी विवाद के संबंध में
+                    निर्णायक मंडल का निर्णय अंतिम होगा।
                 </p>
 
             </div>
@@ -434,9 +780,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 </section>
 
 
-<!-- =========================================
-     SUPPORT / SPONSOR
-     ========================================= -->
+<!-- SUPPORT / SPONSOR -->
 
 <section id="sponsor" class="section sponsor-section">
 
@@ -505,15 +849,31 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 <span class="card-icon">🏆</span>
 
                 <div class="en">
-                    <h3>Prize Money</h3>
-                    <p><strong>₹1,00,000</strong></p>
-                    <p>For winners and participants</p>
+
+                    <h3>Sports Prize Pool</h3>
+
+                    <p>
+                        <strong>₹1,00,000</strong>
+                    </p>
+
+                    <p>
+                        Total prize amount across the sporting activities
+                    </p>
+
                 </div>
 
                 <div class="hi">
-                    <h3>पुरस्कार राशि</h3>
-                    <p><strong>₹1,00,000</strong></p>
-                    <p>विजेताओं एवं प्रतिभागियों के लिए</p>
+
+                    <h3>कुल पुरस्कार राशि</h3>
+
+                    <p>
+                        <strong>₹1,00,000</strong>
+                    </p>
+
+                    <p>
+                        विभिन्न खेल गतिविधियों के लिए कुल पुरस्कार राशि
+                    </p>
+
                 </div>
 
             </div>
@@ -524,21 +884,33 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 <span class="card-icon">📋</span>
 
                 <div class="en">
+
                     <h3>Organisation & Logistics</h3>
-                    <p><strong>₹1,00,000</strong></p>
+
+                    <p>
+                        <strong>₹1,00,000</strong>
+                    </p>
+
                     <p>
                         Refreshments, medical support, route setup,
                         T-shirts, banners and other arrangements
                     </p>
+
                 </div>
 
                 <div class="hi">
+
                     <h3>आयोजन एवं व्यवस्थाएं</h3>
-                    <p><strong>₹1,00,000</strong></p>
+
+                    <p>
+                        <strong>₹1,00,000</strong>
+                    </p>
+
                     <p>
                         जलपान, चिकित्सा सहायता, रूट व्यवस्था,
                         टी-शर्ट, बैनर एवं अन्य व्यवस्थाएं
                     </p>
+
                 </div>
 
             </div>
@@ -549,15 +921,31 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 <span class="card-icon">🤝</span>
 
                 <div class="en">
+
                     <h3>Total Proposed Budget</h3>
-                    <p><strong>₹2,00,000</strong></p>
-                    <p>Estimated requirement for the event</p>
+
+                    <p>
+                        <strong>₹2,00,000</strong>
+                    </p>
+
+                    <p>
+                        Estimated requirement for the event
+                    </p>
+
                 </div>
 
                 <div class="hi">
+
                     <h3>कुल प्रस्तावित बजट</h3>
-                    <p><strong>₹2,00,000</strong></p>
-                    <p>आयोजन के लिए अनुमानित आवश्यकता</p>
+
+                    <p>
+                        <strong>₹2,00,000</strong>
+                    </p>
+
+                    <p>
+                        आयोजन के लिए अनुमानित आवश्यकता
+                    </p>
+
                 </div>
 
             </div>
@@ -581,6 +969,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 </p>
 
                 <ul>
+
                     <li>
                         Prominent visibility for sponsor names and logos
                         at the event.
@@ -596,6 +985,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                         Supporting organisations and businesses will be
                         acknowledged during the event.
                     </li>
+
                 </ul>
 
             </div>
@@ -613,6 +1003,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 </p>
 
                 <ul>
+
                     <li>
                         आयोजन में प्रायोजकों के नाम और लोगो को प्रमुखता से
                         प्रदर्शित करने का अवसर।
@@ -628,6 +1019,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                         सहयोग करने वाली संस्थाओं एवं व्यवसायों का
                         आयोजन के दौरान आभार एवं सम्मान किया जाएगा।
                     </li>
+
                 </ul>
 
             </div>
@@ -649,11 +1041,10 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                     community initiative a success.
                 </p>
 
-                <img src="/assets/images/QR-code.jpeg"
-                     alt="Scan QR code to support Nag Mandir Trust"
-                     class="support-qr">
-
-                <!-- DONOR FORM -->
+                <img
+                    src="/assets/images/QR-code.jpeg"
+                    alt="Scan QR code to support Nag Mandir Trust"
+                    class="support-qr">
 
                 <p>
                     <strong>Supporting the Run?</strong><br>
@@ -665,8 +1056,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                     href="https://forms.gle/sf5EFCFxhxd5Jf478"
                     target="_blank"
                     rel="noopener"
-                    class="support-button"
-                >
+                    class="support-button">
                     Support / Donation Form →
                 </a>
 
@@ -694,11 +1084,10 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                     देकर इस सामुदायिक पहल को सफल बनाने में योगदान दे सकते हैं।
                 </p>
 
-                <img src="/assets/images/QR-code.jpeg"
-                     alt="नाग मंदिर ट्रस्ट को सहयोग करने के लिए QR कोड स्कैन करें"
-                     class="support-qr">
-
-                <!-- DONOR FORM -->
+                <img
+                    src="/assets/images/QR-code.jpeg"
+                    alt="नाग मंदिर ट्रस्ट को सहयोग करने के लिए QR कोड स्कैन करें"
+                    class="support-qr">
 
                 <p>
                     <strong>रन में सहयोग कर रहे हैं?</strong><br>
@@ -710,8 +1099,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                     href="https://forms.gle/sf5EFCFxhxd5Jf478"
                     target="_blank"
                     rel="noopener"
-                    class="support-button"
-                >
+                    class="support-button">
                     सहयोग / दान फॉर्म →
                 </a>
 
@@ -731,35 +1119,41 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
         </div>
 
-<!-- SPONSOR CONTACT -->
 
-<div class="sponsor-contact">
+        <!-- SPONSOR CONTACT -->
 
-    <div class="en">
+        <div class="sponsor-contact">
 
-        <h3>Interested in Sponsoring?</h3>
+            <div class="en">
 
-        <p>
-            For sponsorship opportunities or larger contributions,
-            please get in touch with the Nag Mandir Trust.
-        </p>
+                <h3>Interested in Sponsoring?</h3>
+
+                <p>
+                    For sponsorship opportunities or larger contributions,
+                    please get in touch with the Nag Mandir Trust.
+                </p>
+
+            </div>
+
+
+            <div class="hi">
+
+                <h3>प्रायोजन में रुचि है?</h3>
+
+                <p>
+                    प्रायोजन अथवा बड़े आर्थिक सहयोग के लिए
+                    नाग मंदिर ट्रस्ट से संपर्क करें।
+                </p>
+
+            </div>
+
+        </div>
 
     </div>
 
+</section>
 
-    <div class="hi">
 
-        <h3>प्रायोजन में रुचि है?</h3>
-
-        <p>
-            प्रायोजन अथवा बड़े आर्थिक सहयोग के लिए
-            नाग मंदिर ट्रस्ट से संपर्क करें।
-        </p>
-
-    </div>
-
-</div>
-        
 <!-- CONTACT -->
 
 <section id="contact" class="section contact-section">
@@ -767,21 +1161,31 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
     <div class="container narrow">
 
         <p class="section-label">
-            <span class="en">CONTACT</span>
-            <span class="hi">संपर्क</span>
+
+            <span class="en">
+                CONTACT
+            </span>
+
+            <span class="hi">
+                संपर्क
+            </span>
+
         </p>
 
 
         <div class="en">
 
-            <h2>Berinag Nag Mandir Trust</h2>
+            <h2>
+                Berinag Nag Mandir Trust
+            </h2>
 
             <p>
                 Berinag, Pithoragarh, Uttarakhand
             </p>
 
             <p>
-                📧 <a href="mailto:contact@nagmandirtrust.org">
+                📧
+                <a href="mailto:contact@nagmandirtrust.org">
                     contact@nagmandirtrust.org
                 </a>
             </p>
@@ -795,14 +1199,17 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
         <div class="hi">
 
-            <h2>बेरीनाग नाग मंदिर ट्रस्ट</h2>
+            <h2>
+                बेरीनाग नाग मंदिर ट्रस्ट
+            </h2>
 
             <p>
                 बेरीनाग, पिथौरागढ़, उत्तराखंड
             </p>
 
             <p>
-                📧 <a href="mailto:contact@nagmandirtrust.org">
+                📧
+                <a href="mailto:contact@nagmandirtrust.org">
                     contact@nagmandirtrust.org
                 </a>
             </p>
