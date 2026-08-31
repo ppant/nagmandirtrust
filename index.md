@@ -623,7 +623,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 </p>
 
                 <p>
-                    A participation prize will be given to all finishers,
+                    A participation prize will be given to all finishers of mini marathon,
                     with a special prize for senior citizens.
                 </p>
 
@@ -669,7 +669,7 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 </p>
 
                 <p>
-                    सभी फिनिशर्स को सहभागिता पुरस्कार तथा
+                    मिनी मैराथन के सभी फिनिशर्स को सहभागिता पुरस्कार तथा
                     वरिष्ठ नागरिकों के लिए विशेष पुरस्कार दिया जाएगा।
                 </p>
 
