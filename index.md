@@ -217,6 +217,198 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
 </section>
 
+<!-- NEWS / LATEST UPDATES -->
+
+<section id="news" class="section news-section">
+
+    <div class="container narrow">
+
+        <p class="section-label">
+            <span class="en">LATEST NEWS</span>
+            <span class="hi">नवीनतम समाचार</span>
+        </p>
+
+
+        <!-- ENGLISH -->
+
+        <article class="news-article en">
+
+            <p class="news-date">
+                September 2026
+            </p>
+
+            <h2>
+                Berinag Prepares for Ten Days of Cultural, Social and Sports Activities
+            </h2>
+
+            <p class="intro">
+                Following the inclusion of Berinag Temple in the
+                <strong>Manas Khand</strong> series, there has been growing
+                interest in the Berinag region among devotees and people
+                interested in spirituality from across the country and beyond.
+            </p>
+
+            <p>
+                In response to this growing interest, efforts are being made
+                to organise activities in the region that take place regularly
+                and at a good level, while creating opportunities for people
+                to visit and experience the cultural, social and spiritual
+                character of Berinag.
+            </p>
+
+            <p>
+                This year, activities are being planned around three important
+                traditional festivals — <strong>Rishi Panchami on 15 September,
+                Radhashtami/Nandastami on 19 September and Anant Chaturdashi on
+                25 September</strong>. Over this period, a range of cultural,
+                social and sporting activities will be organised across the
+                Berinag region.
+            </p>
+
+            <p>
+                The programme is expected to include various sporting events,
+                cultural activities, day-and-night fairs, local festivals and
+                community activities. Sports events will include activities
+                such as <strong>adventure sports, boxing, taekwondo, chess,
+                cross-country and volleyball</strong>.
+            </p>
+
+            <p>
+                Various social organisations in the region also organise
+                programmes during this period each year. Through collective
+                participation, these activities are an effort to bring the
+                Berinag region to greater attention and showcase its cultural,
+                social and sporting potential.
+            </p>
+
+            <p>
+                The successful organisation of these activities will involve
+                the important support and cooperation of the
+                <strong>District Administration, Nagar Palika, Police Department,
+                Education Department, Sports Department and Youth Welfare
+                Department</strong>.
+            </p>
+
+            <p>
+                This year, the <strong>Nag Mandir Trust, Berinag</strong> is
+                also launching its website. Through this platform, we hope to
+                take information about future activities and programmes in the
+                Berinag region to a wider, including international, audience.
+            </p>
+
+            <p>
+                Preparations for the various programmes are currently underway.
+                As activities and programmes are finalised, information will
+                be shared with everyone through this platform.
+            </p>
+
+            <p>
+                These efforts are being made with limited time and resources.
+                We welcome suggestions and feedback from the community and
+                hope to work together to identify and address any shortcomings.
+            </p>
+
+      
+
+        </article>
+
+
+        <!-- HINDI -->
+
+        <article class="news-article hi">
+
+            <p class="news-date">
+                सितंबर 2026
+            </p>
+
+            <h2>
+                बेरीनाग में दस दिनों तक सांस्कृतिक, सामाजिक एवं खेल गतिविधियों की तैयारी
+            </h2>
+
+            <p class="intro">
+                बेरीनाग मंदिर के <strong>मानस खण्ड</strong> श्रृंखला में शामिल
+                होने के बाद देश-दुनिया के आध्यात्मिक क्षेत्र में रुचि रखने वाले
+                श्रद्धालुओं का ध्यान बेरीनाग क्षेत्र की ओर बढ़ा है।
+            </p>
+
+            <p>
+                लोगों की बढ़ती हुई इस रुचि को ध्यान में रखते हुए यह प्रयास किया
+                जा रहा है कि क्षेत्र में ऐसी गतिविधियां आयोजित हों, जो नियमित
+                रूप से और अच्छे स्तर पर हों तथा लोगों के बेरीनाग आने-जाने का
+                क्रम बना रहे। इन गतिविधियों के माध्यम से क्षेत्र की सांस्कृतिक,
+                सामाजिक और आध्यात्मिक पहचान को भी सामने लाने का प्रयास किया जा
+                रहा है।
+            </p>
+
+            <p>
+                इसी क्रम में इस वर्ष <strong>15 सितंबर ऋषि पंचमी,
+                19 सितंबर राधाष्टमी/नंदाअष्टमी और 25 सितंबर अनंत चतुर्दशी</strong> के
+                अवसर पर विभिन्न कार्यक्रमों का आयोजन किया जा रहा है।
+                इन पारंपरिक पर्वों के आसपास लगभग दस दिनों की अवधि में क्षेत्र
+                में विभिन्न सांस्कृतिक, सामाजिक एवं खेल गतिविधियां आयोजित
+                की जाएंगी।
+            </p>
+
+            <p>
+                दस दिनों के दौरान विभिन्न खेल आयोजन, सांस्कृतिक गतिविधियां,
+                दिन-रात के मेले, कौतिक एवं अन्य सामुदायिक गतिविधियों का आयोजन
+                किया जा रहा है। खेल गतिविधियों में
+                <strong>साहसिक खेल, बॉक्सिंग, ताइक्वांडो, शतरंज,
+                क्रॉस-कंट्री और वॉलीबॉल</strong> जैसे कार्यक्रम भी शामिल हैं।
+            </p>
+
+            <p>
+                प्रतिवर्ष इस अवधि में विभिन्न सामाजिक संस्थाएं अपने स्तर पर
+                अलग-अलग कार्यक्रम आयोजित करती हैं। सामूहिक सहभागिता से किए जा
+                रहे ये प्रयास बेरीनाग क्षेत्र को देश-दुनिया के सामने लाने तथा
+                क्षेत्र की सांस्कृतिक, सामाजिक और खेल गतिविधियों को व्यापक
+                पहचान दिलाने की दिशा में एक प्रयास हैं।
+            </p>
+
+            <p>
+                इन आयोजनों के सफल संचालन में
+                <strong>जिला प्रशासन, नगर पालिका, पुलिस विभाग, शिक्षा विभाग,
+                खेल विभाग एवं युवा कल्याण विभाग</strong> का महत्वपूर्ण
+                सहयोग रहने वाला है।
+            </p>
+
+            <p>
+                इस वर्ष <strong>नाग मंदिर ट्रस्ट, बेरीनाग</strong> अपनी वेबसाइट
+                भी लॉन्च कर रहा है। इसके माध्यम से भविष्य में बेरीनाग क्षेत्र
+                में होने वाले विभिन्न कार्यक्रमों और गतिविधियों की जानकारी को
+                व्यापक, यहां तक कि अंतर्राष्ट्रीय स्तर पर पहुंचाने का प्रयास
+                किया जाएगा।
+            </p>
+
+            <p>
+                विभिन्न कार्यक्रमों के आयोजन की तैयारियां चल रही हैं।
+                जैसे-जैसे कार्यक्रम अंतिम रूप लेते जाएंगे, उनकी जानकारी
+                आप सभी के साथ साझा की जाएगी।
+            </p>
+
+            <p>
+                सीमित समय और सीमित संसाधनों में सभी प्रयास किए जा रहे हैं।
+                जहां भी आपको लगता है कि किसी प्रकार की त्रुटि या कमी रह गई है,
+                हम आशा करते हैं कि आप उसे हम तक पहुंचाएंगे। मिल-जुलकर उसका
+                समाधान करने का प्रयास किया जाएगा।
+            </p>
+
+       
+        </article>
+
+
+        <div class="news-footer">
+
+            <a href="#contact" class="btn">
+                <span class="en">Stay Connected</span>
+                <span class="hi">जुड़े रहें</span>
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
 
 <!-- RUN -->
 
