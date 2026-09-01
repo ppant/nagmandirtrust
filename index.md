@@ -129,6 +129,37 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
         <div class="en">
 
             <h2>Berinag Nag Mandir Trust</h2>
+        <div class="trust-registration">
+
+    <p>
+
+        <strong>Registered Trust</strong><br>
+
+        Under Trust Registration Act 1882
+
+    </p>
+
+    <p>
+
+        <strong>80G Approved</strong><br>
+
+        Donations to the Trust are eligible for deduction under
+
+        Section 80G of the Income-tax Act, 1961, subject to applicable
+
+        rules and conditions.
+
+    </p>
+
+    <p class="trust-registration-number">
+
+        <strong>80G Unique Registration Number:</strong>
+
+        AAETB4969PF20241
+
+    </p>
+
+    </div>
 
             <p>
                 Berinag Nag Mandir Trust is the Trust associated with
@@ -173,7 +204,37 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
         <div class="hi">
 
             <h2>बेरीनाग नाग मंदिर ट्रस्ट</h2>
+    <div class="trust-registration">
 
+    <p>
+
+        <strong>पंजीकृत ट्रस्ट</strong><br>
+
+        ट्रस्ट पंजीकरण अधिनियम, 1882 के अंतर्गत पंजीकृत
+
+    </p>
+
+    <p>
+
+        <strong>80G अनुमोदित</strong><br>
+
+        ट्रस्ट को दिए गए दान पर आयकर अधिनियम, 1961 की
+
+        धारा 80G के अंतर्गत लागू नियमों एवं शर्तों के अनुसार
+
+        कर कटौती का लाभ प्राप्त किया जा सकता है।
+
+    </p>
+
+    <p class="trust-registration-number">
+
+        <strong>80G विशिष्ट पंजीकरण संख्या:</strong>
+
+        AAETB4969PF20241
+
+    </p>
+
+    </div>
             <p>
                 बेरीनाग नाग मंदिर ट्रस्ट <strong>बेरीनाग स्थित नाग मंदिर</strong>
                 से जुड़ा ट्रस्ट है। नाग मंदिर बेरीनाग, उत्तराखंड की
@@ -1251,6 +1312,11 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                     <strong>IFSC:</strong> SBIN0002523<br>
                     <strong>GPay:</strong> 7906655405
                 </p>
+                <p class="tax-note">
+                    <strong>80G:</strong>
+                    Eligible donations may qualify for deduction under Section 80G
+                    of the Income-tax Act, 1961, subject to applicable rules and conditions.
+                </p>
 
             </div>
 
@@ -1293,6 +1359,11 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                     <strong>खाता संख्या:</strong> 40532033793<br>
                     <strong>IFSC:</strong> SBIN0002523<br>
                     <strong>GPay:</strong> 7906655405
+                </p>
+                <p class="tax-note">
+                    <strong>80G:</strong>
+                    पात्र दान पर आयकर अधिनियम, 1961 की धारा 80G के अंतर्गत
+                    लागू नियमों एवं शर्तों के अनुसार कर कटौती का लाभ प्राप्त किया जा सकता है।
                 </p>
 
             </div>
