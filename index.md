@@ -456,7 +456,48 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
        
         </article>
+        <!-- NEWS ITEM -->
 
+    <article class="news-item">
+
+    <p class="news-date">
+        सितंबर 2026
+    </p>
+
+    <h3>
+        <span class="en">
+            Berinag Nag Mandir Trust launches its YouTube channel
+        </span>
+
+        <span class="hi">
+            बेरीनाग नाग मंदिर ट्रस्ट ने अपना YouTube चैनल शुरू किया
+        </span>
+    </h3>
+
+    <p class="en">
+        The Berinag Nag Mandir Trust is now on YouTube. Follow our channel
+        for updates, videos and information about the temple, cultural
+        activities, sports events and initiatives of the Trust.
+    </p>
+
+    <p class="hi">
+        बेरीनाग नाग मंदिर ट्रस्ट अब YouTube पर भी उपलब्ध है। मंदिर,
+        सांस्कृतिक गतिविधियों, खेल आयोजनों तथा ट्रस्ट की विभिन्न
+        गतिविधियों से जुड़ी जानकारी और वीडियो के लिए हमारे चैनल से जुड़ें।
+    </p>
+
+    <!-- YouTube Video -->
+
+    <div class="youtube-embed">
+        <iframe
+            src="https://www.youtube.com/embed/xgSLHf--1tM"
+            title="Berinag Nag Mandir Trust"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
+    </div>
+    </article>
 
         <div class="news-footer">
 
@@ -1445,6 +1486,17 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 📞 9997846633 · 7454840830
             </p>
 
+            <p class="youtube-contact">
+            <span class="youtube-icon">▶</span>
+            <a
+                href="https://www.youtube.com/@BeinagNagMandirTrust"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                YouTube — Follow our latest updates
+            </a>
+            </p>
+
         </div>
 
 
@@ -1468,6 +1520,17 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <p>
                 📞 9997846633 · 7454840830
             </p>
+
+        <p class="youtube-contact">
+            <span class="youtube-icon">▶</span>
+            <a
+                href="https://www.youtube.com/@BeinagNagMandirTrust"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                YouTube — हमारे नवीनतम अपडेट देखें
+            </a>
+        </p>
 
         </div>
 
