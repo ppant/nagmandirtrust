@@ -1496,6 +1496,25 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 YouTube — Follow our latest updates
             </a>
             </p>
+            <p>
+
+    📸
+
+    <a
+
+        href="https://www.instagram.com/nagmandirtrust/"
+
+        target="_blank"
+
+        rel="noopener noreferrer"
+
+    >
+
+        Instagram: @nagmandirtrust
+
+    </a>
+
+</p>
 
         </div>
 
@@ -1530,6 +1549,25 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             >
                 YouTube — हमारे नवीनतम अपडेट देखें
             </a>
+        </p>
+        <p>
+
+        📸
+
+        <a
+
+            href="https://www.instagram.com/nagmandirtrust/"
+
+            target="_blank"
+
+            rel="noopener noreferrer"
+
+        >
+
+            Instagram: @nagmandirtrust
+
+        </a>
+
         </p>
 
         </div>
