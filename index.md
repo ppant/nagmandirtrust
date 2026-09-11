@@ -452,10 +452,89 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
                 जहां भी आपको लगता है कि किसी प्रकार की त्रुटि या कमी रह गई है,
                 हम आशा करते हैं कि आप उसे हम तक पहुंचाएंगे। मिल-जुलकर उसका
                 समाधान करने का प्रयास किया जाएगा।
-            </p>
-
-       
+            </p>       
         </article>
+        <!-- NEWS ITEM -->
+
+    <article class="news-item">
+
+    <div class="hi">
+
+        <p class="news-date">
+            सितंबर 2026
+        </p>
+
+        <h3>
+            बेरीनाग में 15 से 25 सितंबर तक खेल एवं सांस्कृतिक महोत्सव
+        </h3>
+
+        <p>
+            बेरीनाग नाग मंदिर ट्रस्ट एवं क्षेत्रीय सामाजिक संगठनों के
+            संयुक्त तत्वावधान में 15 से 25 सितंबर 2026 तक विभिन्न
+            खेल, सांस्कृतिक एवं सामुदायिक गतिविधियों का आयोजन किया जा रहा है।
+        </p>
+
+        <div class="news-image">
+            <img
+                src="{{ '/assets/images/all-sports-poster.jpeg' | relative_url }}"
+                alt="बेरीनाग नाग मंदिर ट्रस्ट - खेल एवं सांस्कृतिक महोत्सव कार्यक्रम"
+            >
+        </div>
+
+        <p>
+            इन आयोजनों में ताइक्वांडो, बैडमिंटन, खेल महाकुंभ, शतरंज,
+            वॉलीबॉल, पर्वतारोहण एवं साइकिलिंग, बॉक्सिंग प्रशिक्षण
+            एवं प्रदर्शन मैच सहित विभिन्न गतिविधियां शामिल हैं।
+        </p>
+
+        <p>
+            कार्यक्रमों के सफल आयोजन में जिला प्रशासन, नगर पालिका,
+            पुलिस विभाग, शिक्षा विभाग, खेल विभाग एवं युवा कल्याण विभाग
+            सहित विभिन्न संस्थाओं का सहयोग रहेगा।
+        </p>
+
+    </div>
+
+
+    <div class="en">
+
+        <p class="news-date">
+            September 2026
+        </p>
+
+        <h3>
+            Sports & Cultural Festival in Berinag
+        </h3>
+
+        <p>
+            Berinag Nag Mandir Trust, along with regional social
+            organisations, is organising a series of sports, cultural
+            and community activities from 15 to 25 September 2026.
+        </p>
+
+        <div class="news-image">
+            <img
+                src="{{ '/assets/images/all-sports-poster.jpeg' | relative_url }}"
+                alt="Berinag Nag Mandir Trust - Sports and Cultural Festival Programme"
+            >
+        </div>
+
+        <p>
+            The programme includes Taekwondo, Badminton, Khel Mahakumbh,
+            Chess, Volleyball, Mountaineering and Cycling activities,
+            along with Boxing training and demonstration matches.
+        </p>
+
+        <p>
+            The events will be organised with the support of the district
+            administration, municipality, police department, education
+            department, sports department and youth welfare department,
+            along with other participating organisations.
+        </p>
+
+    </div>
+
+    </article>
         <!-- NEWS ITEM -->
 
     <article class="news-item">

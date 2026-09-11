@@ -704,3 +704,20 @@ footer a:hover {
     line-height: 1;
     vertical-align: middle;
 }
+
+/* NEWS IMAGE */
+
+.news-image {
+    margin: 24px auto;
+    text-align: center;
+}
+
+.news-image img {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
