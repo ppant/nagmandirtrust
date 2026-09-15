@@ -284,21 +284,25 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
     <div class="container narrow">
 
-        <p class="section-label">
+    <p class="section-label">
             <span class="en">LATEST NEWS</span>
             <span class="hi">नवीनतम समाचार</span>
-        </p>
+     </p>
         <!-- NEWS: T-Shirt Launch -->
     <article class="news-card">
-    <img src="{{ '/assets/images/tshirt-launch-bengaluru.jpeg' | relative_url }}"
-     alt="Nag Mandir Parikrama Mini Hill Marathon 2026 T-shirt launch at Lalbagh Botanical Garden, Bengaluru"
-     class="news-image news-image-small">
+    
+  
 
     <div class="news-content">
 
         <div class="en">
+             <p class="news-date">
+                September 2026
+            </p>
             <h3>T-Shirt Launch in Bengaluru</h3>
-
+              <img src="{{ '/assets/images/tshirt-launch-bengaluru.jpeg' | relative_url }}"
+     alt="Nag Mandir Parikrama Mini Hill Marathon 2026 T-shirt launch at Lalbagh Botanical Garden, Bengaluru"
+     class="news-image news-image-small">
             <p>
                 The T-shirt for the Nag Mandir Parikrama Mini Hill Marathon 2026
                 was launched at Lalbagh Botanical Garden, Bengaluru, by
@@ -332,8 +336,13 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
         </div>
 
         <div class="hi">
+           <p class="news-date">
+                सितंबर 2026
+            </p>
             <h3>बेंगलुरु में टी-शर्ट लॉन्च</h3>
-
+              <img src="{{ '/assets/images/tshirt-launch-bengaluru.jpeg' | relative_url }}"
+     alt="Nag Mandir Parikrama Mini Hill Marathon 2026 T-shirt launch at Lalbagh Botanical Garden, Bengaluru"
+     class="news-image news-image-small">
             <p>
                 नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026 की टी-शर्ट का
                 लॉन्च बेंगलुरु के लालबाग बॉटनिकल गार्डन में
