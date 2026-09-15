@@ -288,7 +288,96 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <span class="en">LATEST NEWS</span>
             <span class="hi">नवीनतम समाचार</span>
         </p>
+        <!-- NEWS: T-Shirt Launch -->
+    <article class="news-card">
+    <img src="{{ '/assets/images/tshirt-launch-bengaluru.jpeg' | relative_url }}"
+     alt="Nag Mandir Parikrama Mini Hill Marathon 2026 T-shirt launch at Lalbagh Botanical Garden, Bengaluru"
+     class="news-image news-image-small">
 
+    <div class="news-content">
+
+        <div class="en">
+            <h3>T-Shirt Launch in Bengaluru</h3>
+
+            <p>
+                The T-shirt for the Nag Mandir Parikrama Mini Hill Marathon 2026
+                was launched at Lalbagh Botanical Garden, Bengaluru, by
+                Ultra Runner <strong>Meyappan</strong>.
+            </p>
+
+            <p>
+                This was a wonderful moment connecting the running community
+                of Bengaluru with our mountain town of Berinag, Uttarakhand.
+            </p>
+
+            <p>
+                A heartfelt thank you to our T-shirt sponsors:
+            </p>
+
+            <ul>
+                <li><strong>Golden Buddies Ultra Trail Runners</strong></li>
+                <a href="https://kgfultra.com/" target="_blank" rel="noopener noreferrer">
+                <strong>KGF Ultra BEST Team</strong>
+                </a>
+                <li><strong>Lalbagh Buddies</strong></li>
+            </ul>
+
+            <p>
+                The Berinag Nag Mandir Trust sincerely thanks all our sponsors,
+                runners and the Bengaluru running community for their
+                encouragement and support.
+            </p>
+
+     
+        </div>
+
+        <div class="hi">
+            <h3>बेंगलुरु में टी-शर्ट लॉन्च</h3>
+
+            <p>
+                नाग मंदिर परिक्रमा मिनी हिल मैराथन 2026 की टी-शर्ट का
+                लॉन्च बेंगलुरु के लालबाग बॉटनिकल गार्डन में
+                अल्ट्रा रनर <strong>मेयप्पन</strong> द्वारा किया गया।
+            </p>
+
+            <p>
+                यह अवसर बेंगलुरु की रनिंग कम्युनिटी को हमारे पहाड़ी शहर
+                बेरीनाग, उत्तराखंड से जोड़ने वाला एक खूबसूरत पल रहा।
+            </p>
+
+            <p>
+                हमारी टी-शर्ट के प्रायोजकों का हार्दिक धन्यवाद:
+            </p>
+
+            <ul>
+                <li><strong>Golden Buddies Ultra Trail Runners</strong></li>
+                <a href="https://kgfultra.com/" target="_blank" rel="noopener noreferrer">
+                <strong>KGF Ultra BEST Team</strong>
+                </a>
+                <li><strong>Lalbagh Buddies</strong></li>
+            </ul>
+
+            <p>
+                बेरीनाग नाग मंदिर ट्रस्ट सभी प्रायोजकों, धावकों और
+                बेंगलुरु की रनिंग कम्युनिटी के सहयोग और प्रोत्साहन के लिए
+                हृदय से आभार व्यक्त करता है।
+            </p>
+
+      
+        </div>
+
+        <div class="news-video">
+            <iframe
+            src="https://www.youtube.com/embed/xTPTp-OYWxA"
+            title="Nag Mandir Parikrama Mini Hill Marathon 2026 T-Shirt Launch"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+            </iframe>
+        </div>
+
+    </div>
+    </article>
 
         <!-- ENGLISH -->
 
