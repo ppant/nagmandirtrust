@@ -1238,6 +1238,41 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
 
 </section>
 
+<!-- ROUTE MAP -->
+<section id="route" class="section route-section">
+
+    <div class="container narrow"> 
+
+        <div class="en">
+            <p class="section-label">ROUTE MAP </p>       
+            <h2>Nag Mandir Parikrama Route</h2>
+            <p>
+                Explore the route of the Nag Mandir Parikrama Run through
+                the beautiful mountain surroundings of Berinag.
+            </p>
+        </div>
+
+        <div class="hi">
+            <p class="section-label">रूट मैप</p>
+            <h2>नाग मंदिर परिक्रमा रूट</h2>
+            <p>
+                बेरीनाग के खूबसूरत पहाड़ी क्षेत्र से होकर गुजरने वाले
+                नाग मंदिर परिक्रमा रन का रूट देखें।
+            </p>
+        </div>
+
+        <div class="route-map">
+            <iframe
+                src="https://www.google.com/maps/d/embed?mid=1B8S5A30AStEIwO89daFaSulgOjvFj8w"
+                width="100%"
+                height="500"
+                style="border:0;"
+                loading="lazy"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</section>
 
 <!-- SUPPORT / SPONSOR -->
 
