@@ -288,6 +288,199 @@ description: Berinag Nag Mandir Trust — caring for and supporting the preserva
             <span class="en">LATEST NEWS</span>
             <span class="hi">नवीनतम समाचार</span>
      </p>
+     <!-- NEWS: Nag Mandir Parikrama Run 2026 - Thank You -->
+<article class="news-card">
+<div class="news-card thankyou-news-card">
+
+  <div class="en">
+    <h3>🙏 Nag Mandir Parikrama Run 2026 — A Heartfelt Thank You</h3>
+    <div class="news-date">September 2026</div>
+
+    <p>
+      The Nag Mandir Parikrama Run 2026 was made possible because of the support,
+      encouragement and contribution of so many people and organisations.
+      On behalf of the Organising Team, we extend our heartfelt gratitude to
+      everyone who contributed directly or indirectly to making the event a success.
+    </p>
+
+    <p>
+      A special thank you to our <strong>Volunteers, Medical Team, Police Administration,
+      Teachers, Media Friends, local residents</strong>, and everyone who contributed
+      in their own capacity. An event of this scale would not have been possible
+      without your support.
+    </p>
+
+    <p>
+      We would also like to extend a special thanks to all the
+      <strong>Content Creators</strong> who helped create excitement
+      and a positive buzz around the event on social media. Your efforts helped
+      take the story of Nag Mandir Parikrama Run beyond Berinag and reach people
+      across different parts of the country.
+    </p>
+
+    <p>
+      We sincerely thank <strong>Sports Department, Youth Welfare Department,
+      Tourism Department, Education Department, District Olympic Association,
+      Pithoragarh, and Azim Premji Foundation</strong> for their support and
+      guidance in making the event successful.
+    </p>
+
+    <p>
+      Our heartfelt thanks to our <strong>Sponsors — TVS, BNK Healthcare,
+      Maiktoli Sourcing and VEPO</strong>, and our
+      <strong>T-shirt Partners — KGF Ultra and Golden Buddies Ultra Trail Runners,
+      Bengaluru</strong>.
+    </p>
+
+    <p>
+      We are especially grateful to all our <strong>Donors</strong> who extended
+      generous financial support from different parts of India and across the world.
+      Contributions and encouragement from the <strong>USA, Europe, Singapore</strong>
+      and different parts of India have been truly inspiring.
+    </p>
+
+    <p>
+      It is because of the generous support of our Donors and Sponsors that we were
+      able to keep the run <strong>completely free for all participants</strong>,
+      while also providing <strong>decent prizes across all categories along with
+      consolation prizes</strong>. This support helped ensure that financial
+      considerations did not become a barrier for anyone who wanted to participate.
+    </p>
+
+    <p>
+      With the support and affection of all of you, the
+      <strong>Berinag Nag Mandir Parikrama Run is becoming more than just a running
+      event — it is growing into a community movement towards a fitter and
+      drug-free India.</strong>
+      Together, let us spread the message of
+      <strong>“Fit India, Say No to Drugs”</strong> and inspire more people,
+      especially the younger generation, to embrace fitness and an active lifestyle.
+    </p>
+
+    <p>
+      Your suggestions, ideas and feedback are always valuable to us.
+      Please feel free to reach out to us through WhatsApp or phone, or write to us at
+      <strong>contact@nagmandirtrust.org</strong>.
+    </p>
+
+    <p>
+      Photos and videos from the event will soon be shared on our Social Media Pages.
+      Stay connected and continue to support the movement.
+    </p>
+
+    <p>
+      With your continued support and suggestions, we will work towards making this
+      run better every year. In the coming years, we plan to introduce
+      <strong>new distances and additional age categories</strong>, with the aim of
+      attracting runners from across the country to Berinag and giving them an
+      opportunity to experience running through the beautiful Himalayan hills.
+    </p>
+
+    <p class="thankyou-closing">
+      <strong>Once again, a heartfelt thank you to everyone who made
+      Nag Mandir Parikrama Run 2026 possible. 🙏</strong>
+    </p>
+
+    <p class="thankyou-signoff">
+      — Nag Mandir Parikrama Run Organising Team<br>
+      Bengaluru | Berinag
+    </p>
+  </div>
+
+
+  <div class="hi">
+    <h3>🙏 नाग मंदिर परिक्रमा रन 2026 — आप सभी का हृदय से धन्यवाद</h3>
+    <div class="news-date">सितंबर 2026</div>
+
+    <p>
+      नाग मंदिर परिक्रमा रन 2026 को सफल बनाने में प्रत्यक्ष और अप्रत्यक्ष रूप से
+      सहयोग देने वाले सभी लोगों, संस्थाओं, स्वयंसेवकों और शुभचिंतकों का
+      नाग मंदिर परिक्रमा रन की आयोजन टीम की ओर से हृदय से आभार।
+    </p>
+
+    <p>
+      हमारे सभी <strong>स्वयंसेवकों, चिकित्सा दल, पुलिस प्रशासन, शिक्षकों,
+      मीडिया साथियों, स्थानीय निवासियों</strong> और उन सभी मित्रों का विशेष
+      धन्यवाद, जिन्होंने अपनी क्षमता और सामर्थ्य के अनुसार इस आयोजन में योगदान दिया।
+      आपके सहयोग के बिना इतने बड़े आयोजन को सफलतापूर्वक संपन्न करना संभव नहीं था।
+    </p>
+
+    <p>
+      सोशल मीडिया पर आयोजन के लिए उत्साह और सकारात्मक चर्चा पैदा करने वाले सभी
+      <strong>व्लॉगर्स और सामग्री निर्माताओं</strong> का भी विशेष धन्यवाद।
+      आपके प्रयासों से नाग मंदिर परिक्रमा रन की पहुँच बेरीनाग से आगे देश के
+      विभिन्न हिस्सों तक पहुँची।
+    </p>
+
+    <p>
+      आयोजन में सहयोग के लिए <strong>खेल विभाग, युवा कल्याण विभाग, पर्यटन विभाग,
+      शिक्षा विभाग, जिला ओलंपिक संघ, पिथौरागढ़ और अज़ीम प्रेमजी फाउंडेशन</strong>
+      का विशेष आभार। आपके सहयोग और मार्गदर्शन ने आयोजन को सफल बनाने में
+      महत्वपूर्ण भूमिका निभाई।
+    </p>
+
+    <p>
+      हम अपने <strong>सहयोगी — TVS, BNK Healthcare, Maiktoli Sourcing और VEPO</strong>,
+      तथा <strong>टी-शर्ट सहयोगी — KGF Ultra और Golden Buddies Ultra Trail Runners,
+      Bengaluru</strong> का भी दिल से धन्यवाद करते हैं।
+    </p>
+
+    <p>
+      देश-विदेश से उदारतापूर्वक आर्थिक सहयोग देने वाले सभी
+      <strong>दानदाताओं</strong> का विशेष आभार। अमेरिका, यूरोप, सिंगापुर और
+      देश के अलग-अलग हिस्सों से मिला आपका स्नेह और समर्थन हमारे लिए
+      बेहद प्रेरणादायक है।
+    </p>
+
+    <p>
+      हमारे दानदाताओं और सहयोगियों के उदार सहयोग से ही हम इस दौड़ को सभी
+      प्रतिभागियों के लिए <strong>पूरी तरह निःशुल्क</strong> रख पाए और सभी
+      श्रेणियों में सम्मानजनक पुरस्कारों के साथ <strong>सांत्वना पुरस्कार</strong>
+      भी प्रदान कर सके। इस सहयोग ने यह सुनिश्चित किया कि आर्थिक कारण किसी भी
+      धावक की भागीदारी में बाधा न बनें।
+    </p>
+
+    <p>
+      आप सभी के सहयोग और अपनत्व से
+      <strong>बेरीनाग नाग मंदिर परिक्रमा रन केवल एक आयोजन नहीं, बल्कि स्वस्थ
+      और नशामुक्त भारत की दिशा में बढ़ता एक जनआंदोलन</strong> बन रहा है।
+      आइए, मिलकर <strong>“फिट इंडिया, नशामुक्त भारत”</strong> का संदेश हर घर
+      और हर युवा तक पहुँचाएँ।
+    </p>
+
+    <p>
+      आपके सुझाव, विचार और प्रतिक्रियाएँ हमारे लिए महत्वपूर्ण हैं।
+      आप हमसे व्हाट्सऐप या फोन के माध्यम से संपर्क कर सकते हैं या
+      <strong>contact@nagmandirtrust.org</strong> पर ईमेल कर सकते हैं।
+    </p>
+
+    <p>
+      आयोजन की <strong>तस्वीरें और वीडियो</strong> जल्द ही हमारे सामाजिक
+      माध्यमों पर साझा किए जाएँगे। जुड़े रहें और अपना स्नेह बनाए रखें।
+    </p>
+
+    <p>
+      आपके निरंतर सहयोग और सुझावों के साथ हम इस दौड़ को हर वर्ष और बेहतर बनाने
+      का प्रयास करेंगे। आने वाले वर्षों में इसमें <strong>नई दूरी और अधिक
+      आयु-वर्ग की श्रेणियाँ</strong> जोड़ने की योजना है, ताकि देशभर के अधिक से
+      अधिक धावक बेरीनाग आकर इस आयोजन का हिस्सा बन सकें और यहाँ की खूबसूरत
+      पहाड़ियों में दौड़ने का अनुभव ले सकें।
+    </p>
+
+    <p class="thankyou-closing">
+      <strong>एक बार फिर नाग मंदिर परिक्रमा रन 2026 को सफल बनाने वाले
+      आप सभी का हृदय से धन्यवाद। 🙏</strong>
+    </p>
+
+    <p class="thankyou-signoff">
+      — नाग मंदिर परिक्रमा रन आयोजन टीम<br>
+      बेंगलुरु | बेरीनाग
+    </p>
+  </div>
+
+</div>
+</article>
+<!-- END NEWS: Nag Mandir Parikrama Run 2026 - Thank You -->
         <!-- NEWS: T-Shirt Launch -->
     <article class="news-card">
     
